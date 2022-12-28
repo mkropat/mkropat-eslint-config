@@ -1,6 +1,6 @@
 {
   "name": "@mkropat/eslint-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "An opinionated set of style rules",
   "main": "index.js",
   "repository": {
