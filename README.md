@@ -18,7 +18,7 @@
     }
     ```
 
-    <details><summary>Example <code>~/.eslintrc.json</code> starter file</summary>
+    <details><summary>Example <code>.eslintrc.json</code> starter file</summary>
 
     ```javascript
     {
